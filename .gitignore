@@ -1,0 +1,9 @@
+.env
+.eslintignore
+.eslintrc.json
+debug.js
+deploy-guild-commands.js
+deploy-commands.js
+MOOver.code-workspace
+./database/test.json
+node_modules
